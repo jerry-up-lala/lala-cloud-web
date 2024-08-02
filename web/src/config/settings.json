@@ -1,0 +1,17 @@
+{
+  "theme": "light",
+  "navbar": true,
+  "menu": true,
+  "topMenu": false,
+  "menuCollapse": false,
+  "menuWidth": 220,
+  "footer": true,
+  "tabBar": true,
+  "colorWeak": false,
+  "noticeUserUnreadCount": [0, 0, 0],
+  "hideMenu": false,
+  "globalSettings": false,
+  "device": "desktop",
+  "routeTreeFromServer": true,
+  "routeTree": []
+}

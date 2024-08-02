@@ -1,0 +1,16 @@
+export default {
+  'login.form.title': '登录lala-cloud管理后台',
+  'login.form.sub.title': '基于SpringCloud，Arco前后端基础样例',
+  'login.form.tenantName.placeholder': '集团名称：样例集团',
+  'login.form.tenantName.errMsg': '集团名称不能为空',
+  'login.form.loginName.placeholder': '用户名：admin',
+  'login.form.loginName.errMsg': '用户名不能为空',
+  'login.form.passWord.placeholder': '密码：lala',
+  'login.form.passWord.errMsg': '密码不能为空',
+  'login.form.login.errMsg': '登录出错，轻刷新重试',
+  'login.form.login.success': '欢迎使用',
+  'login.form.rememberPassword': '记住密码',
+  'login.form.forgetPassword': '忘记密码',
+  'login.form.login': '登录',
+  'login.form.register': '注册账号',
+};

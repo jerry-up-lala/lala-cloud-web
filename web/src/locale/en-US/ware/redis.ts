@@ -1,0 +1,23 @@
+export default {
+  'ware.redis.dataType': 'Data Type',
+  'ware.redis.key': 'Key Name',
+  'ware.redis.key.help': 'Key Name Cannot repeat',
+  'ware.redis.key.exists': 'Key Name Already exists',
+  'ware.redis.value': 'Value',
+  'ware.redis.member': 'Member',
+  'ware.redis.zset.score': 'Score',
+  'ware.redis.hash.field': 'Field',
+  'ware.redis.search.pattern': 'Please enter Key Name or Pattern to Search',
+  'ware.redis.expire': 'Time to Live',
+  'ware.redis.expire.update': 'Update Time to Live',
+  'ware.redis.expire.extra': 'Set to Empty, Never expire',
+  'ware.redis.list.element': 'Element',
+  'ware.redis.list.add.pushType': 'Add Push Type',
+  'ware.redis.list.delete.pushType': 'Delete Push Type',
+  'ware.redis.list.pushType.tail': 'Push to tail',
+  'ware.redis.list.pushType.head': 'Push to head',
+  'ware.redis.list.count': 'Count',
+  'ware.redis.table.empty':
+    'No data, Please click on the tree node on the left',
+  'ware.redis.info.empty': 'No data, Please click on the list row on the left',
+};

@@ -1,0 +1,15 @@
+export default {
+  'dev.dict': '字典',
+  'dev.dict.dictName': '字典名称',
+  'dev.dict.dictKey': '字典标识',
+  'dev.dict.search': '输入字典名称或者字典标识查询',
+  'dev.dict.refresh.cache': '刷新缓存',
+  'dev.dict.item': '字典项',
+  'dev.dict.item.tree': '查看字典项',
+  'dev.dict.item.tree.null': '请点击左侧查看字典项按钮',
+  'dev.dict.item.label': '展示名',
+  'dev.dict.item.value': '值',
+  'dev.dict.item.parent': '父字典项',
+  'dev.dict.item.sortOrder': '排序值',
+  'dev.dict.item.sortOrder.tooltip': '值越高越靠后',
+};
